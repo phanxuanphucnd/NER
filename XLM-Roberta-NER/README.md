@@ -1,7 +1,7 @@
 # NER with XLM-RoBERTa 
 Fine-tuning of the [XLM-Roberta](https://arxiv.org/abs/1911.02116) cross-lingual architecture for Sequence Tagging, namely Named Entity Recognition. 
 
-The code is inspired by [BERT-NER](https://github.com/kamalkraj/BERT-NER) repo by kamalkraj.
+The code is inspired by [BERT-NER](https://github.com/kamalkraj/BERT-NER)
 
 
 ## Requirements 
